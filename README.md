@@ -7,7 +7,19 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## How to Run this Project
+
+1. Clone this repository
+'''
+   git clone https://github.com/saminegash/task-manager.git
+'''
+2. Install dependencies
+'''
+   pnpm install
+'''
+
+3. Run the project
+''' pnpm dev '''
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
