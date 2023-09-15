@@ -10,17 +10,19 @@ Currently, two official plugins are available:
 ## How to Run this Project
 
 1. Clone this repository
-'''
-   git clone https://github.com/saminegash/task-manager.git
-'''
+
+   ```git clone https://github.com/saminegash/task-manager.git
+```
 2. Install dependencies
-'''
-   pnpm install
-'''
+
+  ``` pnpm install```
+
 
 3. Run the project
-''' pnpm dev '''
+```pnpm dev ```
 
+
+## Expanding the ESLint configuration
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
 - Configure the top-level `parserOptions` property like this:
