@@ -11,8 +11,8 @@ Currently, two official plugins are available:
 
 1. Clone this repository
 
-   ```git clone https://github.com/saminegash/task-manager.git
-```
+   ```git clone https://github.com/saminegash/task-manager.git```
+
 2. Install dependencies
 
   ``` pnpm install```
